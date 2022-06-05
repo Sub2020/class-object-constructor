@@ -33,6 +33,6 @@ public class House {
         System.out.println("Keep bathroom clean again");
     }
     void livingRoom () {
-        System.out.println("Watch Qatar WorldCup2022 on TV");
+        System.out.println("Watch Qatar WorldCup2022 on TV and wins ticket");
     }
 }
